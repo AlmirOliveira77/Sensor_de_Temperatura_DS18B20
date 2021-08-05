@@ -1,4 +1,4 @@
-# Sensor de Tenperatura DS18B20
+# Sensor de Temperatura DS18B20
 ## Integrantes: 
  - Almir de Oliveira Pereira <br>
  - Gabriel Faustino da Silva <br>
