@@ -5,7 +5,11 @@
  - Jhônata Vinícius Da Silva Negreiros
 
 ## Descrição:
-Repositório destinado ao projeto das disciplinas de Técnicas de Prototipagem e Sistemas Embarcados
+Repositório destinado ao projeto das disciplinas de Técnicas de Prototipagem e Sistemas Embarcados.
+
+## Definição da aplicação:
+
+
 
 
 
