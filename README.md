@@ -2,6 +2,6 @@
 Integrantes: 
  - Almir de Oliveira Pereira <br>
  - Gabriel Faustino da Silva <br>
- - Jhônata Vinícius Negreiros
+ - Jhônata Vinícius Da Silva Negreiros
 
 
