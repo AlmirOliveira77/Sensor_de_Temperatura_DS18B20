@@ -1,6 +1,6 @@
 # Sensor de Tenperatura DS18B20
-Integrantes: - Almir de Oliveira Pereira 
-             - Gabriel Faustino da Silva 
+Integrantes: - Almir de Oliveira Pereira <\br>
+             - Gabriel Faustino da Silva <\br>
              - Jhônata Vinícios Negreiros
 
 
