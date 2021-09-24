@@ -1,0 +1,10 @@
+Jumpers
+Display LCD 16x2
+Módulo I2C para display LCD
+Sensor de Temperatura DS18B20
+Conector Jack
+Leds 5 mm
+Resistores
+Buzzer
+Push button
+Microcontrolador ATmega328P
